@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23073069969",
+    "project_id": "search-37ee0",
+    "storage_bucket": "search-37ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23073069969:android:51fbdd9be2efb74eced830",
+        "android_client_info": {
+          "package_name": "com.example.ranger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23073069969-tav97i2tftqkqjfjbpe0ssbut33uqtmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96xW57JvWcjcb4Q33WwfQ29d1hxIL7Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23073069969-tav97i2tftqkqjfjbpe0ssbut33uqtmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
